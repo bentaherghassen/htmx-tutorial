@@ -6,7 +6,7 @@ app = Flask(__name__)
 def home():
     return render_template("index.html", car_models=car_models)  # Pass car_models HERE
 
-
+# just comment 
 @app.route("/cars", methods=["GET"])
 def cars():
     car_maker = request.args.get("maker")
