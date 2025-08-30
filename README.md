@@ -1,2 +1,3 @@
 # htmx-tutorial
-You might choose to use HTMX instead of writing JavaScript 
+Writing JavaScript is boring , You might choose to use HTMX instead of writing JavaScript 
+  
